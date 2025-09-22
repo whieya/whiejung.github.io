@@ -1,3 +1,4 @@
+
 /* latin-ext */
 @font-face {
   font-family: 'Lato';
@@ -81,7 +82,7 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 14px
 }
 
 strong {
@@ -89,22 +90,18 @@ strong {
   font-size: 14px;
 }
 
-h2 {
-  margin: 0;
-  font-weight: normal;
+heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
 }
 
-.papertitle {
+papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 700
 }
 
-.name {
-  padding-top: 20px;
-  margin: 0;
+name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
 }
@@ -133,10 +130,4 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
-
-.colored-box {
-    color: black;
-    padding: 20px;
-    display: inline-block;
-    border-radius: 10px;
-}
+movinghoon.github.io/stylesheet.css at main · movinghoon/movinghoon.github.io
